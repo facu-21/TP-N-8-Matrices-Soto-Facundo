@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//Faltan funciones.
 int main() {
 	int m[6][5]={0},i,j,f=1,c;
 	while(f!=0){
